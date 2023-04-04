@@ -29,11 +29,11 @@ You will analyze and optimize marketing channels, measure and test website conve
  
  ## ANALYZING TRAFFIC SOURCES
  
-### 💡Business Concept: Traffic Source Analysis
+### 💡 Business Concept: Traffic Source Analysis
  
  Traffic source analysis is about understanding **where your customers are coming from** and **which channels are driving the highest quality traffic.**
  
- ### 💡Common Use Cases : Traffic Source Analysis
+ ### 💡 Common Use Cases : Traffic Source Analysis
  
  - Analyzing search data and shifting budget towards the engines, campaigns or keywords driving the strongest conversion rates
  - Comparing user behavior patterns across traffic sources to inform creative and messaging strategy
@@ -41,7 +41,7 @@ You will analyze and optimize marketing channels, measure and test website conve
 
 ## TASK
 
-### 1. 📌 FINDING TOP TRAFFIC SOURCES
+### 1.  📌  FINDING TOP TRAFFIC SOURCES
 
 #### Steps:
 
