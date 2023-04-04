@@ -29,8 +29,7 @@ You will analyze and optimize marketing channels, measure and test website conve
  
  ## ANALYZING TRAFFIC SOURCES
  
- ### ![](images/![image](https://user-images.githubusercontent.com/99440217/229880174-f8b16382-7a18-412a-8e1f-19b0ca56f378.png)
-) Business Concept: Traffic Source Analysis
+### Business Concept: Traffic Source Analysis
  
  Traffic source analysis is about understanding **where your customers are coming from** and **which channels are driving the highest quality traffic.**
  
