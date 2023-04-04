@@ -58,7 +58,7 @@ You will analyze and optimize marketing channels, measure and test website conve
 
 -  Most sessions came from gsearch nonbrand campaign traffic.
 
-### 2. 📌TRAFFIC CONVERSION RATE
+### 2.  📌 TRAFFIC CONVERSION RATE
 
 #### Steps:
 
@@ -75,17 +75,17 @@ You will analyze and optimize marketing channels, measure and test website conve
 
 - The conversion rate is less than 4%, which is 2.88%, hence we have to reduce bids. 
 
-### 💡Business Concept: Bid Optimization
+### 💡 Business Concept: Bid Optimization
 
 Analyzing for bid optimization is about **understanding the value of various segments of paid traffic, so that you can optimize your marketing budget.**
 
-### 💡Common Use Cases: Bid Optimization
+### 💡 Common Use Cases: Bid Optimization
 
 - Using conversion rate and revenue per click analyses to figure out how much you should spend per click to acquire customers
 - Understanding how your website and products perform for various subsegments of traffic (i.e. mobile vs desktop) to optimize within channels
 - Analyzing the impact that bid changes have on your ranking in the auctions, and the volume of customers driven to your site
 
-### 3. 📌 TRAFFIC SOURCE TRENDING
+### 3.  📌  TRAFFIC SOURCE TRENDING
 
 #### Steps:
 
@@ -102,7 +102,7 @@ Analyzing for bid optimization is about **understanding the value of various seg
 
 - The sessions after 2021-04-15 have dropped. Continue to monitor session volume. 
 
-### 4. 📌 TRAFFIC SOURCE BID OPTIMIZATION
+### 4.  📌  TRAFFIC SOURCE BID OPTIMIZATION
 
 #### Steps:
 
@@ -119,7 +119,7 @@ Analyzing for bid optimization is about **understanding the value of various seg
 - Desktop bids were driving nearly 4% of the conversion rate, so we should transfer the paid traffic spent to the desktop channel instead.
 
 
-### 5. 📌 TRAFFIC SOURCE SEGMENT TRENDING
+### 5.  📌  TRAFFIC SOURCE SEGMENT TRENDING
 
 #### Steps:
 
@@ -138,11 +138,11 @@ Analyzing for bid optimization is about **understanding the value of various seg
 
 ## ANALYZING WEBSITE PERFORMANCE
 
-### 💡Business Concept : Analyzing Top Website Content
+### 💡 Business Concept : Analyzing Top Website Content
 
 Website content analysis is about **understanding which pages are seen the most by your users, to identify where to focus on improving your business.**
 
-### 💡Common Use Cases: Analyzing Top Website Content
+### 💡 Common Use Cases: Analyzing Top Website Content
 
 - Finding the most-viewed pages that customers view on your site
 - Identifying the most common entry pages to your website – the first thing a user sees
@@ -150,7 +150,7 @@ Website content analysis is about **understanding which pages are seen the most 
 
 ### TASK
 
-### 1. 📌 IDENTIFYING TOP WEBSITE PAGES
+### 1.  📌  IDENTIFYING TOP WEBSITE PAGES
 
 #### Steps:
 
@@ -167,7 +167,7 @@ Website content analysis is about **understanding which pages are seen the most 
 
 - homepage, products, and original Mr Fuzzy are the most-viewed website pages with the highest traffic.
 
-### 2.📌 IDENTIFYING TOP ENTRY PAGES
+### 2. 📌  IDENTIFYING TOP ENTRY PAGES
 
 #### Steps:
 
@@ -185,17 +185,17 @@ Website content analysis is about **understanding which pages are seen the most 
 
 -  Homepage is the top landing page. Analyze landing page performance, for the homepage specifically.
 
-### 💡Business Concept : Landing Page Performance and Testing
+### 💡 Business Concept : Landing Page Performance and Testing
 
 Landing page analysis and testing is about **understanding the performance of your key landing pages and then testing to improve your results.**
 
-### 💡Common Use Cases: Landing Page Performance and Testing
+### 💡 Common Use Cases: Landing Page Performance and Testing
 
 - Identifying your top opportunities for landing pages – high volume pages with higher than expected bounce rates or low conversion rates
 - Setting up A/B experiments on your live traffic to see if you can improve your bounce rates and conversion rates
 - Analyzing test results and making recommendations on which version of landing pages you should use going forward
 
-### 3. 📌 BOUNCE RATE ANALYSIS
+### 3.  📌  BOUNCE RATE ANALYSIS
 
 #### Steps:
 
@@ -220,7 +220,7 @@ Landing page analysis and testing is about **understanding the performance of yo
 
  - A 60% bounce rate is pretty high especially for paid search.
 
-### 4. 📌 ANALYZING LANDING PAGE TESTS
+### 4.  📌  ANALYZING LANDING PAGE TESTS
 
 #### Steps:
 
@@ -249,7 +249,7 @@ Landing page analysis and testing is about **understanding the performance of yo
 
 - The Lander page has a lower bounce rate than home page. Fewer customers have bounced on the lander page.
 
-### 5. 📌 LANDING PAGE TREND ANALYSIS
+### 5.  📌  LANDING PAGE TREND ANALYSIS
 
 #### Steps:
 
@@ -274,17 +274,17 @@ Landing page analysis and testing is about **understanding the performance of yo
 
 - All traffict was directed to home until 2012-06-17, and starting on 2012-08-05, all traffic was directed to lander-1. There has been improvement as the bounce rate decreased from more than 60% to about 50%.
 
-### 💡Business Concept : Analyzing and Testing Conversion Funnels
+### 💡 Business Concept : Analyzing and Testing Conversion Funnels
 
 Conversion funnel analysis is about **understanding and optimizing each step of your user’s experience on their journey toward purchasing your products.**
 
-### 💡Common Use Cases: Analyzing and Testing Conversion Funnels
+### 💡 Common Use Cases: Analyzing and Testing Conversion Funnels
 
 - Identifying the most common paths customers take before purchasing your products
 - Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step
 - Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products
 
-### 6. 📌 BUILDING CONVERSION FUNNELS
+### 6.  📌  BUILDING CONVERSION FUNNELS
 
 #### Steps :
 
@@ -310,7 +310,7 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 
 - Lander-1, mrfuzzy, and billing pages has lowest clickthrough rate. More information on billing page will make customers more comfortable to insert their credit card information.
 
-### 7. 📌 ANALYZING CONVERSION FUNNEL TEST
+### 7.  📌  ANALYZING CONVERSION FUNNEL TEST
 
 #### Steps:
 
