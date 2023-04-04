@@ -304,9 +304,34 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 
 ![](images/answer_funnel_performance_12.png)
 
-![](images/funnel_performance_12.png)
+![](images/aggregate_Click_rate_13.png)
 
-![](images/answer_funnel_performance_12.png)
+![](images/answer_aggregare_click_rate_13.png)
+
+- Lander-1, mrfuzzy, and billing pages has lowest clickthrough rate. More information on billing page will make customers more comfortable to insert their credit card information.
+
+### 7. ANALYZING CONVERSION FUNNEL TEST
+
+#### Steps:
+
+- Find first time '/billing-2 was seen
+- Select all pageviews for relevant session
+- Aggregate and summarize the conversion rate
+
+#### Query:
+
+![](images/billing2_14.png)
+
+![](images/answer_billing2_14.png)
+
+![](images/billing_test_15.png)
+
+![](images/answer_billing_test_15.png)
+
+![](images/answer_billing_test_15_result.png)
+
+- /billing-2 page has session to order converstion rate at 62%, much better than billing page at 46%.
+
 
 
 
