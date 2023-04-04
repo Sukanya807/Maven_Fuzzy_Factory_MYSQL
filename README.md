@@ -330,7 +330,7 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 
 ![](images/answer_billing_test_15_result.png)
 
-- /billing-2 page has session to order converstion rate at 62%, much better than billing page at 46%.
+
 
 
 
