@@ -49,5 +49,11 @@ You will analyze and optimize marketing channels, measure and test website conve
 - Filter results up to sessions before '2012-04-12' and group results by utm_source, utm_campaign and http_referer
 
 ![](images/site_traffic_breakdown.png)
+
+#### Result:
+
+![](images/answer_site_traffic_breakdown.png)
+
+-  Most sessions came from gsearch nonbrand campaign traffic.
  
  
