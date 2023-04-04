@@ -298,7 +298,15 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 
 ![](images/analyze_conversion_funnel_11_1.png)
 
+![](images/answer_analyze_conversion_funnel_11.png)
 
+![](images/funnel_performance_12.png)
+
+![](images/answer_funnel_performance_12.png)
+
+![](images/funnel_performance_12.png)
+
+![](images/answer_funnel_performance_12.png)
 
 
 
