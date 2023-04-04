@@ -23,4 +23,8 @@ You will analyze and optimize marketing channels, measure and test website conve
  - Products
  - Orders & Refunds
  
+ ## Entity Relationship Diagram
+ 
+ ![](images/ERD.png)
+ 
  
