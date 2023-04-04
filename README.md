@@ -330,6 +330,10 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 
 ![](images/answer_billing_test_15_result.png)
 
+- answer_billing_test_15_result.png
+
+
+
 
 
 
