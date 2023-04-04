@@ -333,6 +333,9 @@ Conversion funnel analysis is about **understanding and optimizing each step of 
 - /billing-2 page has session to order converstion rate at 62%, much better than billing page at 46%.
 
 
+** Please [CLICK HERE](https://github.com/Sukanya807/MavenFuzzyFactory_MYSQL_MidCourseProject/blob/main/README.md) for link to MIDCOURSE PROJECT.
+
+
 
 
 
