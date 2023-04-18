@@ -210,11 +210,11 @@ Landing page analysis and testing is about **understanding the performance of yo
 
 ![](images/answer_landing_page_home_8_1.png)
 
-![](bounced_home_8_2.png)
+![](images/bounced_home_8_2.png)
 
 ![](images/answer_bounced_home_8_2.png)
 
-![](bounced_session_8_3.png)
+![](images/bounced_session_8_3.png)
 
 ![](images/answer_bounced_session_8_3.png)
 
